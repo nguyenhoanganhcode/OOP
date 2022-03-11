@@ -1,0 +1,15 @@
+C:\BT OOP\BAI1\BAI1\bin\Debug\net6.0\BAI1.exe
+C:\BT OOP\BAI1\BAI1\bin\Debug\net6.0\BAI1.deps.json
+C:\BT OOP\BAI1\BAI1\bin\Debug\net6.0\BAI1.runtimeconfig.json
+C:\BT OOP\BAI1\BAI1\bin\Debug\net6.0\BAI1.dll
+C:\BT OOP\BAI1\BAI1\bin\Debug\net6.0\ref\BAI1.dll
+C:\BT OOP\BAI1\BAI1\bin\Debug\net6.0\BAI1.pdb
+C:\BT OOP\BAI1\BAI1\obj\Debug\net6.0\BAI1.csproj.AssemblyReference.cache
+C:\BT OOP\BAI1\BAI1\obj\Debug\net6.0\BAI1.GeneratedMSBuildEditorConfig.editorconfig
+C:\BT OOP\BAI1\BAI1\obj\Debug\net6.0\BAI1.AssemblyInfoInputs.cache
+C:\BT OOP\BAI1\BAI1\obj\Debug\net6.0\BAI1.AssemblyInfo.cs
+C:\BT OOP\BAI1\BAI1\obj\Debug\net6.0\BAI1.csproj.CoreCompileInputs.cache
+C:\BT OOP\BAI1\BAI1\obj\Debug\net6.0\BAI1.dll
+C:\BT OOP\BAI1\BAI1\obj\Debug\net6.0\ref\BAI1.dll
+C:\BT OOP\BAI1\BAI1\obj\Debug\net6.0\BAI1.pdb
+C:\BT OOP\BAI1\BAI1\obj\Debug\net6.0\BAI1.genruntimeconfig.cache
